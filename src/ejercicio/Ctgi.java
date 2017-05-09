@@ -10,7 +10,7 @@ package ejercicio;
  * @author SENA
  */
 public class Ctgi {
-    private final Ambiente ambiente1 =new Ambiente();
+    private Ambiente ambiente1 =new Ambiente();
     private Aprendiz aprendiz1;
 
     public void setAprendiz1(Aprendiz aprendiz1P) {
